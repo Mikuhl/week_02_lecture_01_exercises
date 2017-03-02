@@ -1,0 +1,26 @@
+
+/* style.css */
+
+div{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 360px;
+    margin: 0 auto;
+    padding: 20px;
+    border:  1px solid red;
+}
+
+/* Your code here */
+
+h2 {
+  font-size: 20px
+  font-margin: bold;
+}
+
+ul{
+
+  color: red;
+}
+
+li ul {
+  color: blue;
+}
